@@ -1,0 +1,15 @@
+Two-Way Encryption Sample
+
+Two-Way Encryption Sample is a quick and dirty application that shows you how to perform simple two-way encryption using the System.Cryptography NameSpace.
+
+The program allows you to enter a username and password and then encrypt these two pieces of information. The encrypted information is stored in a text file (The Key and IV are stored in the file as well). Decryption is shown off when you re-open the application as it reads the previously encrypted file and restores the data.
+
+Created by Craig Lotter, November 2007
+
+*********************************
+
+Project Details:
+
+Coded in Visual Basic .NET using Visual Studio .NET 2005
+Implements concepts such as Crytography, text file manipulation.
+Level of Complexity: simple
